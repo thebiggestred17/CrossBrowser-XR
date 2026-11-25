@@ -1,0 +1,6 @@
+{
+  "name": "CrossBrowser XR",
+  "description": "A five-display spatial WebXR multi-window personal web browser arranged in an ergonomic cross formation with hand tracking for window manipulation and scrolling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
